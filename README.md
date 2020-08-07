@@ -19,7 +19,7 @@
 
 ![Bridge Order sim](./bridge_order_sim.png)
 
-### Error unable to be filled due to multiple errors
+### Order is unable to be filled due to multiple errors
 
 ![Errors in trade](./errors.png)
 
