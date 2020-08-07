@@ -1,13 +1,14 @@
 # 0x Doc
 
-0x Doc was created to serve technically-savvy users such as market-makers, 0x API integrators, and RFQ providers that want experiment, simulate, and trade 0x V3 orders. 0x Doc provides a simple user interface and allows them to gain more insight from the on-chain magic that happens in 0x.
-
-
 ### Links
 - [0x Doc](http://0xdoc.xyz/)
 - [0x Protocol](http://0x.org/)
 - [The developer and maintainer](https://twitter.com/pirosb3)
 - [The designer](https://www.linkedin.com/in/danniphu)
+
+## What is 0x Doc
+
+0x Doc was created to serve technically-savvy users such as market-makers, 0x API integrators, and RFQ providers that want experiment, simulate, and trade 0x V3 orders. 0x Doc provides a simple user interface and allows them to gain more insight from the on-chain magic that happens in 0x.
 
 ## Screenshots
 
