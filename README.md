@@ -1,6 +1,6 @@
 # 0x Doc
 
-0x Doc was created to serve technically-savvy users such as market-makers, 0x API integrators, and RFQ providers that want experiment, simulate, and trade 0x V3 orders. 0x Doc provides a simple user interface and allowes them to gain more insight from the on-chain magic that happens in 0x.
+0x Doc was created to serve technically-savvy users such as market-makers, 0x API integrators, and RFQ providers that want experiment, simulate, and trade 0x V3 orders. 0x Doc provides a simple user interface and allows them to gain more insight from the on-chain magic that happens in 0x.
 
 
 ### Links
@@ -26,7 +26,7 @@
 
 ## How does it work?
 
-Paste in a 0x V3 Signed Order, and the “doc” will provide detailed explanation of the order, select how much of the trade you want to take, simulate the trade using the blockchain, and ultimately sign and broadcast the transaction on-chain.
+Paste in a 0x V3 Signed Order and click "Select this order".  The “doc” will provide a detailed human explanation of the order, allow you to select how much of the order you want to take, simulate the trade using the blockchain, and ultimately sign and broadcast the transaction on-chain.
 
 ## Who is this tool for?
 
